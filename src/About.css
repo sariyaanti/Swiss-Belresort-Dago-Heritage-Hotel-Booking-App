@@ -1,0 +1,19 @@
+.about {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 7px solid #7ae780;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(117, 112, 112, 0.1);
+}
+
+.about h2 {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.about p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 29px;
+}
